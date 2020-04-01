@@ -1,9 +1,17 @@
 # Analysis and design of algorithms
 
-![N|Solid](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png)
+_Acá va un párrafo que describa lo que es el proyecto_
+
+## About me 🚀
 
 I am a student of Systems Engineering at the University of San Buenaventura.
+
+![N|Solid](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png)
+
+
+### Projects 📋
+
 The present projects that can be seen now are:
-     
-     # Covid19: 
-     It is a project that we have on the subject of Analysis and design of algorithms where the countries will be entered with their numbers of infected and deaths, and later, keep all the information in flat files.
+```
+Da un ejemplo
+```
