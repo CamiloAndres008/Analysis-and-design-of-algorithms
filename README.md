@@ -2,7 +2,7 @@
 
 ![N|Solid](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png)
 
-## About me 🚀
+## About me 💻
 
 I am a student of Systems Engineering at the University of San Buenaventura.
 
