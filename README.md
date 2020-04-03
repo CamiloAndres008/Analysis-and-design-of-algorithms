@@ -1,6 +1,6 @@
 # Analysis and design of algorithms
 
-![N|Solid](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png :width: 100px )
+![N|Solid](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png):width: 100px 
 
 ## About me 💻
 
