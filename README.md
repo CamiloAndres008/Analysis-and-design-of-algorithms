@@ -31,3 +31,4 @@ The present projects that can be seen now are:
 
 ## If you want to contact me
 ![Login](https://www.sistemasgod.com/web/image/1484/Office_30x30.png) cadiazg@academia.usbbog.edu.co
+---
