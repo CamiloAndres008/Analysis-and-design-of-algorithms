@@ -6,6 +6,7 @@
 ---
 
 ## About me 💻
+F
 I am a student of Systems Engineering at the University of San Buenaventura.
 ![N|Solid](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 ---
@@ -26,5 +27,5 @@ The present projects that can be seen now are:
 
 ## Remember
 
-> "Medir el progreso del desarrollo de software por líneas de código es como medir el progreso de la construcción de un avión por su peso" (Bill Gates)
+> "Measuring the progress of software development by lines of code is like measuring the progress of building an airplane by its weight." (Bill Gates)
 ---
