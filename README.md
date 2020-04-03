@@ -1,8 +1,13 @@
 ### Analysis and design of algorithms
 
 ---
+![Muro](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png)
+![Login](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png)
+
+
 ![N|Solid](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png)
 
+![Muro]
 ---
 
 ## About me 💻
