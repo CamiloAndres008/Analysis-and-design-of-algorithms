@@ -11,7 +11,7 @@ I am a student of Systems Engineering at the University of San Buenaventura.
 
 The present projects that can be seen now are:
 
-| Comando | Descripción |
+| Projects | Description |
 | --- | --- |
 | git status | Enumera todos los archivos nuevos o modificados |
 | git diff | Muestra las diferencias de archivo que no han sido preparadas |
