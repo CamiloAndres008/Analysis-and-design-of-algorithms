@@ -13,7 +13,7 @@ I am a student of Systems Engineering at the University of San Buenaventura.
 ## My projects 📋
 | Projects | Description |
 | --- | --- |
-| AEREOUSB | It was a project carried out in the Data Structure class with my partner [Juan Esteban Contreras Díaz](https://github.com/Juan098098). This project is designed to handle the information collected in an airline, it could be used by different users such as: president, directors and flight agents; with their respective tasks available. It is made with different structures such as [batteries] (https://www.ciberaula.com/cursos/java/pilas_java.php), [tails] (https://www.ciberaula.com/cursos/java/colas_java .php ), [lists] (https://www.ciberaula.com/cursos/java/listas_java.php), among others., among others. |
+| AEREOUSB | It was a project carried out in the Data Structure class with my partner [Juan Esteban Contreras Díaz](https://github.com/Juan098098). This project is designed to handle the information collected in an airline, it could be used by different users such as: president, directors and flight agents; with their respective tasks available. It is made with different structures such as [Stack] (https://www.ciberaula.com/cursos/java/pilas_java.php), [Queue] (https://www.ciberaula.com/cursos/java/colas_java .php ), [List] (https://www.ciberaula.com/cursos/java/listas_java.php), among others., among others. |
 ---
 
 ## Projects that you will see in this repository 👀
@@ -30,5 +30,5 @@ The present projects that can be seen now are:
 ---
 
 ## If you want to contact me
-![Login](https://www.sistemasgod.com/web/image/1484/Office_30x30.png) cadiazg@academia.usbbog.edu.co
+![Login](https://lh3.googleusercontent.com/proxy/DrRj6VSRRnBpie72OxXtrGGqeLaCmiXaxqz72cDn2b1HLQhw92ZMtxxmp0A4yJg6Q2D5m_8JUgYyoZQT-m3PRZ6Z3Kl3rxaC0mW8OwUTk9vFZZ37gcHCYegE3TMlCEsIOg) [Camilo Andrés Díaz Gómez] (https://www.linkedin.com/in/camilo-andr%C3%A9s-d%C3%ADaz-g%C3%B3mez-97b5581a3/)
 ---
