@@ -1,12 +1,6 @@
 ### Analysis and design of algorithms
 
 ---
-![Muro](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png)
-F
-F
-![Login](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png)
-F
-F
 ![N|Solid](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png)
 
 ---
@@ -36,3 +30,4 @@ The present projects that can be seen now are:
 ---
 
 ## If you want to contact me
+![Login](https://www.software.unam.mx/wp-content/uploads/2019/03/office-265.png)
