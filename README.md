@@ -16,7 +16,6 @@ The present projects that can be seen now are:
 | Projects | Description |
 | --- | --- |
 | [COVID-19](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) | It is a project that we have on the subject of Analysis and design of algorithms where the countries will be entered with their numbers of infected and deaths, and later, keep all the information in flat files. |
-| git diff | Muestra las diferencias de archivo que no han sido preparadas |
 ---
 
 # Recuerda
