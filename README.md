@@ -7,10 +7,15 @@
 
 I am a student of Systems Engineering at the University of San Buenaventura.
 ![N|Solid](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
-
 ---
-# Projects 📋
 
+# My projects 📋
+| Projects | Description |
+| --- | --- |
+| [AEREOUSB]() | It was a project done in the Data Structure class. This project is designed to handle information collected in an airline, it could be used by different users such as: President, Directors and flight agents; with their respective tasks available. It is made with different structures such as piles(https://www.ciberaula.com/cursos/java/pilas_java.php), queues(https://www.ciberaula.com/cursos/java/colas_java.php), lists(https://www.ciberaula.com/cursos/java/listas_java.php
+), among others. |
+---
+# Projects that you will see in this repository 👀
 The present projects that can be seen now are:
 
 | Projects | Description |
