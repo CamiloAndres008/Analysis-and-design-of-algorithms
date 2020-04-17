@@ -13,7 +13,7 @@ I am a student of Systems Engineering at the University of San Buenaventura.
 ## My projects 📋
 | Projects | Description |
 | --- | --- |
-| AEREOUSB | It was a project carried out in the Data Structure class with my partner [Juan Esteban Contreras Díaz](https://github.com/Juan098098). This project is designed to handle the information collected in an airline, it could be used by different users such as: president, directors and flight agents; with their respective tasks available. It is made with different structures such as [Stack] (https://www.ciberaula.com/cursos/java/pilas_java.php), [Queue] (https://www.ciberaula.com/cursos/java/colas_java .php ), [List] (https://www.ciberaula.com/cursos/java/listas_java.php), among others., among others. |
+| AEREOUSB | It was a project carried out in the Data Structure class with my partner [Juan Esteban Contreras Díaz](https://github.com/Juan098098). This project is designed to handle the information collected in an airline, it could be used by different users such as: president, directors and flight agents; with their respective tasks available. It is made with different structures such as [Stack](https://www.ciberaula.com/cursos/java/pilas_java.php), [Queue](https://www.ciberaula.com/cursos/java/colas_java .php ), [List](https://www.ciberaula.com/cursos/java/listas_java.php), among others., among others. |
 ---
 
 ## Projects that you will see in this repository 👀
